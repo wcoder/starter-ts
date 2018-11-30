@@ -1,2 +1,8 @@
-# starter-ts
-TypeScript starter project with Mocha tests and support debugging via VS Code.
+# starter-ts (WIP)
+TypeScript starter project.
+
+### Features
+
+- TypeScript for frontend
+- VS integration
+- Mocha tests
